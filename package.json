@@ -3,13 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.5.4",
+    "react-pacman-progress": "^0.2.0",
+    "react-svg-buttons": "^0.3.1"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.4.0",
-    "react-scripts": "0.9.5"
+    "enzyme": "^2.8.2",
+    "react-scripts": "0.9.5",
+    "react-test-renderer": "^15.5.4"
   },
   "scripts": {
     "start": "react-scripts start",
